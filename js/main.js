@@ -10,4 +10,4 @@ function showMenu(){
 
 $('.close').click(hideClose);
 
-$('.fas.fa-bars').click(showMenu);
+$('.header-right a').click(showMenu);
